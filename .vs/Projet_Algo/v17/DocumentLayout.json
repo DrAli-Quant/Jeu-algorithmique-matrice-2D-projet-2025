@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alidu\\source\\repos\\Projet_Algo_Ali_Duraku_Ver1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C232FC9-2C38-4749-9470-456C068FF298}|Projet_Algo\\Projet_Algo.csproj|c:\\users\\alidu\\source\\repos\\projet_algo_ali_duraku_ver1\\projet_algo\\jeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C232FC9-2C38-4749-9470-456C068FF298}|Projet_Algo\\Projet_Algo.csproj|solutionrelative:projet_algo\\jeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C232FC9-2C38-4749-9470-456C068FF298}|Projet_Algo\\Projet_Algo.csproj|c:\\users\\alidu\\source\\repos\\projet_algo_ali_duraku_ver1\\projet_algo\\plateau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C232FC9-2C38-4749-9470-456C068FF298}|Projet_Algo\\Projet_Algo.csproj|solutionrelative:projet_algo\\plateau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C232FC9-2C38-4749-9470-456C068FF298}|Projet_Algo\\Projet_Algo.csproj|c:\\users\\alidu\\source\\repos\\projet_algo_ali_duraku_ver1\\projet_algo\\joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C232FC9-2C38-4749-9470-456C068FF298}|Projet_Algo\\Projet_Algo.csproj|solutionrelative:projet_algo\\joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C232FC9-2C38-4749-9470-456C068FF298}|Projet_Algo\\Projet_Algo.csproj|c:\\users\\alidu\\source\\repos\\projet_algo_ali_duraku_ver1\\projet_algo\\dictionnaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C232FC9-2C38-4749-9470-456C068FF298}|Projet_Algo\\Projet_Algo.csproj|solutionrelative:projet_algo\\dictionnaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C232FC9-2C38-4749-9470-456C068FF298}|Projet_Algo\\Projet_Algo.csproj|c:\\users\\alidu\\source\\repos\\projet_algo_ali_duraku_ver1\\projet_algo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C232FC9-2C38-4749-9470-456C068FF298}|Projet_Algo\\Projet_Algo.csproj|solutionrelative:projet_algo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C232FC9-2C38-4749-9470-456C068FF298}|Projet_Algo\\Projet_Algo.csproj|c:\\users\\alidu\\source\\repos\\projet_algo_ali_duraku_ver1\\projet_algo\\lettre.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8C232FC9-2C38-4749-9470-456C068FF298}|Projet_Algo\\Projet_Algo.csproj|solutionrelative:projet_algo\\lettre.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C232FC9-2C38-4749-9470-456C068FF298}|Projet_Algo\\Projet_Algo.csproj|c:\\users\\alidu\\source\\repos\\projet_algo_ali_duraku_ver1\\projet_algo\\save.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8C232FC9-2C38-4749-9470-456C068FF298}|Projet_Algo\\Projet_Algo.csproj|solutionrelative:projet_algo\\save.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lettre.txt",
+              "DocumentMoniker": "C:\\Users\\alidu\\source\\repos\\Projet_Algo_Ali_Duraku_Ver1\\Projet_Algo\\Lettre.txt",
+              "RelativeDocumentMoniker": "Projet_Algo\\Lettre.txt",
+              "ToolTip": "C:\\Users\\alidu\\source\\repos\\Projet_Algo_Ali_Duraku_Ver1\\Projet_Algo\\Lettre.txt",
+              "RelativeToolTip": "Projet_Algo\\Lettre.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-16T00:03:16.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Save.csv",
+              "DocumentMoniker": "C:\\Users\\alidu\\source\\repos\\Projet_Algo_Ali_Duraku_Ver1\\Projet_Algo\\Save.csv",
+              "RelativeDocumentMoniker": "Projet_Algo\\Save.csv",
+              "ToolTip": "C:\\Users\\alidu\\source\\repos\\Projet_Algo_Ali_Duraku_Ver1\\Projet_Algo\\Save.csv",
+              "RelativeToolTip": "Projet_Algo\\Save.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-12-15T17:07:39.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Jeu.cs",
+              "DocumentMoniker": "C:\\Users\\alidu\\source\\repos\\Projet_Algo_Ali_Duraku_Ver1\\Projet_Algo\\Jeu.cs",
+              "RelativeDocumentMoniker": "Projet_Algo\\Jeu.cs",
+              "ToolTip": "C:\\Users\\alidu\\source\\repos\\Projet_Algo_Ali_Duraku_Ver1\\Projet_Algo\\Jeu.cs",
+              "RelativeToolTip": "Projet_Algo\\Jeu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T00:21:37.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Plateau.cs",
+              "DocumentMoniker": "C:\\Users\\alidu\\source\\repos\\Projet_Algo_Ali_Duraku_Ver1\\Projet_Algo\\Plateau.cs",
+              "RelativeDocumentMoniker": "Projet_Algo\\Plateau.cs",
+              "ToolTip": "C:\\Users\\alidu\\source\\repos\\Projet_Algo_Ali_Duraku_Ver1\\Projet_Algo\\Plateau.cs",
+              "RelativeToolTip": "Projet_Algo\\Plateau.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAYwAsBAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T16:47:02.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dictionnaire.cs",
+              "DocumentMoniker": "C:\\Users\\alidu\\source\\repos\\Projet_Algo_Ali_Duraku_Ver1\\Projet_Algo\\Dictionnaire.cs",
+              "RelativeDocumentMoniker": "Projet_Algo\\Dictionnaire.cs",
+              "ToolTip": "C:\\Users\\alidu\\source\\repos\\Projet_Algo_Ali_Duraku_Ver1\\Projet_Algo\\Dictionnaire.cs",
+              "RelativeToolTip": "Projet_Algo\\Dictionnaire.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAcwIgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T08:12:44.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Joueur.cs",
+              "DocumentMoniker": "C:\\Users\\alidu\\source\\repos\\Projet_Algo_Ali_Duraku_Ver1\\Projet_Algo\\Joueur.cs",
+              "RelativeDocumentMoniker": "Projet_Algo\\Joueur.cs",
+              "ToolTip": "C:\\Users\\alidu\\source\\repos\\Projet_Algo_Ali_Duraku_Ver1\\Projet_Algo\\Joueur.cs",
+              "RelativeToolTip": "Projet_Algo\\Joueur.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAA1wBMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:52:25.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alidu\\source\\repos\\Projet_Algo_Ali_Duraku_Ver1\\Projet_Algo\\Program.cs",
+              "RelativeDocumentMoniker": "Projet_Algo\\Program.cs",
+              "ToolTip": "C:\\Users\\alidu\\source\\repos\\Projet_Algo_Ali_Duraku_Ver1\\Projet_Algo\\Program.cs",
+              "RelativeToolTip": "Projet_Algo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:35:13.663Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

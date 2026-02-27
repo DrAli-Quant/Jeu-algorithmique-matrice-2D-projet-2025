@@ -1,0 +1,50 @@
+C:\Users\alidu\source\repos\Projet_Algo\Projet_Algo\bin\Debug\net8.0\Projet_Algo.exe
+C:\Users\alidu\source\repos\Projet_Algo\Projet_Algo\bin\Debug\net8.0\Projet_Algo.deps.json
+C:\Users\alidu\source\repos\Projet_Algo\Projet_Algo\bin\Debug\net8.0\Projet_Algo.runtimeconfig.json
+C:\Users\alidu\source\repos\Projet_Algo\Projet_Algo\bin\Debug\net8.0\Projet_Algo.dll
+C:\Users\alidu\source\repos\Projet_Algo\Projet_Algo\bin\Debug\net8.0\Projet_Algo.pdb
+C:\Users\alidu\source\repos\Projet_Algo\Projet_Algo\obj\Debug\net8.0\Projet_Algo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alidu\source\repos\Projet_Algo\Projet_Algo\obj\Debug\net8.0\Projet_Algo.AssemblyInfoInputs.cache
+C:\Users\alidu\source\repos\Projet_Algo\Projet_Algo\obj\Debug\net8.0\Projet_Algo.AssemblyInfo.cs
+C:\Users\alidu\source\repos\Projet_Algo\Projet_Algo\obj\Debug\net8.0\Projet_Algo.csproj.CoreCompileInputs.cache
+C:\Users\alidu\source\repos\Projet_Algo\Projet_Algo\obj\Debug\net8.0\Projet_Algo.dll
+C:\Users\alidu\source\repos\Projet_Algo\Projet_Algo\obj\Debug\net8.0\refint\Projet_Algo.dll
+C:\Users\alidu\source\repos\Projet_Algo\Projet_Algo\obj\Debug\net8.0\Projet_Algo.pdb
+C:\Users\alidu\source\repos\Projet_Algo\Projet_Algo\obj\Debug\net8.0\Projet_Algo.genruntimeconfig.cache
+C:\Users\alidu\source\repos\Projet_Algo\Projet_Algo\obj\Debug\net8.0\ref\Projet_Algo.dll
+C:\Users\alidu\source\repos\Projet_Algo\Projet_Algo\bin\Debug\net8.0\Mots_Français.txt
+C:\Users\alidu\source\repos\Projet_Algo\Projet_Algo\bin\Debug\net8.0\Lettre.txt
+C:\Users\alidu\source\repos\Projet_Algo - Copie\Projet_Algo\bin\Debug\net8.0\Lettre.txt
+C:\Users\alidu\source\repos\Projet_Algo - Copie\Projet_Algo\bin\Debug\net8.0\Mots_Français.txt
+C:\Users\alidu\source\repos\Projet_Algo - Copie\Projet_Algo\bin\Debug\net8.0\Projet_Algo.exe
+C:\Users\alidu\source\repos\Projet_Algo - Copie\Projet_Algo\bin\Debug\net8.0\Projet_Algo.deps.json
+C:\Users\alidu\source\repos\Projet_Algo - Copie\Projet_Algo\bin\Debug\net8.0\Projet_Algo.runtimeconfig.json
+C:\Users\alidu\source\repos\Projet_Algo - Copie\Projet_Algo\bin\Debug\net8.0\Projet_Algo.dll
+C:\Users\alidu\source\repos\Projet_Algo - Copie\Projet_Algo\bin\Debug\net8.0\Projet_Algo.pdb
+C:\Users\alidu\source\repos\Projet_Algo - Copie\Projet_Algo\obj\Debug\net8.0\Projet_Algo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alidu\source\repos\Projet_Algo - Copie\Projet_Algo\obj\Debug\net8.0\Projet_Algo.AssemblyInfoInputs.cache
+C:\Users\alidu\source\repos\Projet_Algo - Copie\Projet_Algo\obj\Debug\net8.0\Projet_Algo.AssemblyInfo.cs
+C:\Users\alidu\source\repos\Projet_Algo - Copie\Projet_Algo\obj\Debug\net8.0\Projet_Algo.csproj.CoreCompileInputs.cache
+C:\Users\alidu\source\repos\Projet_Algo - Copie\Projet_Algo\obj\Debug\net8.0\Projet_Algo.dll
+C:\Users\alidu\source\repos\Projet_Algo - Copie\Projet_Algo\obj\Debug\net8.0\refint\Projet_Algo.dll
+C:\Users\alidu\source\repos\Projet_Algo - Copie\Projet_Algo\obj\Debug\net8.0\Projet_Algo.pdb
+C:\Users\alidu\source\repos\Projet_Algo - Copie\Projet_Algo\obj\Debug\net8.0\Projet_Algo.genruntimeconfig.cache
+C:\Users\alidu\source\repos\Projet_Algo - Copie\Projet_Algo\obj\Debug\net8.0\ref\Projet_Algo.dll
+C:\Users\alidu\source\repos\Projet_Algo - Copie\Projet_Algo\bin\Debug\net8.0\Save.csv
+C:\Users\alidu\source\repos\Projet_Algo_Ali_Duraku_Ver1\Projet_Algo\bin\Debug\net8.0\Lettre.txt
+C:\Users\alidu\source\repos\Projet_Algo_Ali_Duraku_Ver1\Projet_Algo\bin\Debug\net8.0\Mots_Français.txt
+C:\Users\alidu\source\repos\Projet_Algo_Ali_Duraku_Ver1\Projet_Algo\bin\Debug\net8.0\Save.csv
+C:\Users\alidu\source\repos\Projet_Algo_Ali_Duraku_Ver1\Projet_Algo\bin\Debug\net8.0\Projet_Algo.exe
+C:\Users\alidu\source\repos\Projet_Algo_Ali_Duraku_Ver1\Projet_Algo\bin\Debug\net8.0\Projet_Algo.deps.json
+C:\Users\alidu\source\repos\Projet_Algo_Ali_Duraku_Ver1\Projet_Algo\bin\Debug\net8.0\Projet_Algo.runtimeconfig.json
+C:\Users\alidu\source\repos\Projet_Algo_Ali_Duraku_Ver1\Projet_Algo\bin\Debug\net8.0\Projet_Algo.dll
+C:\Users\alidu\source\repos\Projet_Algo_Ali_Duraku_Ver1\Projet_Algo\bin\Debug\net8.0\Projet_Algo.pdb
+C:\Users\alidu\source\repos\Projet_Algo_Ali_Duraku_Ver1\Projet_Algo\obj\Debug\net8.0\Projet_Algo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alidu\source\repos\Projet_Algo_Ali_Duraku_Ver1\Projet_Algo\obj\Debug\net8.0\Projet_Algo.AssemblyInfoInputs.cache
+C:\Users\alidu\source\repos\Projet_Algo_Ali_Duraku_Ver1\Projet_Algo\obj\Debug\net8.0\Projet_Algo.AssemblyInfo.cs
+C:\Users\alidu\source\repos\Projet_Algo_Ali_Duraku_Ver1\Projet_Algo\obj\Debug\net8.0\Projet_Algo.csproj.CoreCompileInputs.cache
+C:\Users\alidu\source\repos\Projet_Algo_Ali_Duraku_Ver1\Projet_Algo\obj\Debug\net8.0\Projet_Algo.dll
+C:\Users\alidu\source\repos\Projet_Algo_Ali_Duraku_Ver1\Projet_Algo\obj\Debug\net8.0\refint\Projet_Algo.dll
+C:\Users\alidu\source\repos\Projet_Algo_Ali_Duraku_Ver1\Projet_Algo\obj\Debug\net8.0\Projet_Algo.pdb
+C:\Users\alidu\source\repos\Projet_Algo_Ali_Duraku_Ver1\Projet_Algo\obj\Debug\net8.0\Projet_Algo.genruntimeconfig.cache
+C:\Users\alidu\source\repos\Projet_Algo_Ali_Duraku_Ver1\Projet_Algo\obj\Debug\net8.0\ref\Projet_Algo.dll
